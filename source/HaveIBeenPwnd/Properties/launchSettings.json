@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "HaveIBeenPwnd": {
+      "commandName": "Project",
+      "commandLineArgs": "C:\\Temp\\stober-hashes.txt C:\\Temp\\pwned-passwords-ntlm-ordered-by-hash-v7.txt"
+    }
+  }
+}
