@@ -54,7 +54,7 @@
                 while (line is not null);
                 timer.Stop();
                 Console.Error.WriteLine();
-                Console.Error.WriteLine($"Scanned {count} hashes in {timer}.");
+                Console.Error.WriteLine($"Scanned {count} hashes in {timer.Elapsed}.");
             }
         }
 
